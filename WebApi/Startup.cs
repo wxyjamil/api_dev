@@ -43,9 +43,9 @@ namespace WebApi
                     TermsOfService = new Uri("https://example.com/terms"),
                     Contact = new OpenApiContact
                     {
-                        Name = "Shayne Boyer",
-                        Email = string.Empty,
-                        Url = new Uri("https://twitter.com/spboyer"),
+                        Name = "Jamil",
+                        Email = "wxyjamil@gmail.com",
+                        Url = new Uri("https://twitter.com/itsjamilhere"),
                     },
                     License = new OpenApiLicense
                     {
